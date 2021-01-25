@@ -1,0 +1,39 @@
+.Scores {
+  display: flex;
+  background-color: orange;
+  height: 750px;
+  width: 520px;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.item {
+  display: inline-block;
+  width: 70px;
+  height: 30px;
+  text-align: center;
+  border: gray;
+  background-color: #e8562a;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+
+.Scr1 {
+  
+  width: 260px;
+  height: 300px;
+}
+.Scr2 {
+  width: 260px;
+  height: 300px;
+}
+
+.player1 {
+  color: red;
+}
+
+.player2 {
+  color: navy;
+}
